@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>6.0</version>
+    <date>2023-08-10T15:52:46Z</date>
+    <groups>
+       <group>
+            <uuid>11bf9bc863684ec994035fe8caae9424</uuid>
+            <name>Device/OS/Linux</name>
+        </group>
+    </groups>
+ <hosts>   
+
+    <host>
+            <host>SRV-Linux-101001</host>
+            <name>SRV-LINUX-101001</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.1</ip>
+                    <dns>SRV-Linux-101001</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101002</host>
+            <name>SRV-LINUX-101002</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.2</ip>
+                    <dns>SRV-Linux-101002</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101003</host>
+            <name>SRV-LINUX-101003</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.3</ip>
+                    <dns>SRV-Linux-101003</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101004</host>
+            <name>SRV-LINUX-101004</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.4</ip>
+                    <dns>SRV-Linux-101004</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101005</host>
+            <name>SRV-LINUX-101005</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.5</ip>
+                    <dns>SRV-Linux-101005</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101006</host>
+            <name>SRV-LINUX-101006</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.6</ip>
+                    <dns>SRV-Linux-101006</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101007</host>
+            <name>SRV-LINUX-101007</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.7</ip>
+                    <dns>SRV-Linux-101007</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101008</host>
+            <name>SRV-LINUX-101008</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.8</ip>
+                    <dns>SRV-Linux-101008</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101009</host>
+            <name>SRV-LINUX-101009</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.9</ip>
+                    <dns>SRV-Linux-101009</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+
+    <host>
+            <host>SRV-Linux-101010</host>
+            <name>SRV-LINUX-101010</name>
+            <templates>
+                <template>
+                    <name>Linux by Zabbix agent</name>
+                </template>
+            </templates>
+            <groups>
+                <group>
+                    <name>Linux servers</name>
+                </group>
+            </groups>
+            <interfaces>
+                <interface>
+                    <ip>192.168.1.10</ip>
+                    <dns>SRV-Linux-101010</dns>
+                    <interface_ref>if1</interface_ref>
+                </interface>
+            </interfaces>
+
+            <inventory_mode>AUTOMATIC</inventory_mode>
+        </host>
+    </hosts>
+</zabbix_export>
